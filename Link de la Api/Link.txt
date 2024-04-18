@@ -1,0 +1,1 @@
+https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&from=en&to=es&to=zu&authuser=0
